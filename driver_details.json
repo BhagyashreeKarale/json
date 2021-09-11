@@ -1,0 +1,37 @@
+{
+  "driver1": {
+    "name": "Name : Shyam",
+    "contact no.": "Contact : 9847673643",
+    "rating": "Rating : 4.3/5",
+    "location": "",
+    "vehicle_no": "Number Plate : MH 12 RK 5668"
+  },
+  "driver2": {
+    "name": "Name : Dayanand",
+    "contact no.": "Contact : 9573264683",
+    "rating": "Rating : 4.3/5",
+    "location": "",
+    "vehicle_no": "Number Plate : MH 12 SS 4674"
+  },
+  "driver3": {
+    "name": "Name : Hari",
+    "contact no.": "Contact : 9798357934",
+    "rating": "Rating : 4.0/5",
+    "location": "",
+    "vehicle_no": "Number Plate : MH 12 SD 6587"
+  },
+  "driver4": {
+    "name": "Name : Rakesh",
+    "contact no.": "Contact : 9847736434",
+    "rating": "Rating : 4.5/5",
+    "location": "",
+    "vehicle_no": "Number Plate : MH 12 WE 7682"
+  },
+  "driver5": {
+    "name": "Name : Nayak",
+    "contact no.": "Contact : 9476736434",
+    "rating": "Rating : 3.9/5",
+    "location": "",
+    "vehicle_no": "Number Plate : MH 12 IP 8762"
+  }
+}
